@@ -1,0 +1,10 @@
+{
+  "name": "neko",
+  "symbol": "ne",
+  "description": "neko is a memecoin on Solana with a total supply of 1 billion tokens.",
+  "image": "https://ipfs.io/ipfs/bafkreigu2w7n6pm3yfs3xyjibbl7zqkcs4hspi6q74wcqfpqmaady6anzq#",
+  "attributes": [
+    { "trait_type": "Category", "value": "Memecoin" },
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ]
+}

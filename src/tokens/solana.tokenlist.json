@@ -184622,4 +184622,13 @@
     "minor": 3,
     "patch": 3
   }
-}
+  [
+  "chainId": 101,
+  "address": "7Fdmw45rjuXt5asVkMYy4EesNJ33v7hg5DshisrZxnV8",
+  "symbol": "neko",
+  "name": "ne",
+  "decimals": 9,
+  "logoURI": "",
+  "tags": 
+    "utility-token"
+  ],
